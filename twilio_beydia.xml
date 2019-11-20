@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-     <Say>Bonjour Monsieur Beydia Mohamed , ceci est un message automatique .</Say>
+    <Say voice="woman" language="fr-FR">Bonjour Mohamed tu vas bien ?</Say>
 </Response>
