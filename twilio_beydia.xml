@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="woman" language="fr-FR">Bonjour Mohamed tu vas bien ?</Say>
+    <Say voice="alice" language="fr-FR">Salut Mohamed il fait beau aujourd'hui !</Say>
 </Response>
