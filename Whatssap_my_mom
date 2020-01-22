@@ -18,7 +18,7 @@ Sending_msg_to_mom<- function() {
   Sys.setenv(TWILIO_TOKEN = "2b0XXXXXXXXXXXXXXXXXXXXXXXXXXXX")
   
   # Then we're just going to store the numbers in some variables
-  my_phone_number <- "whatsapp:+33751093021"
+  my_phone_number <- "whatsapp:+XXXXXXXX"
   twilios_phone_number <- "whatsapp:+14155238886"
   
   # Now we can send away!
